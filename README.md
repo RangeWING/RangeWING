@@ -1,4 +1,8 @@
-### Hi there 👋
+### RangeWING
+- Younggeol Cho
+- 🌱 I'm a graduate student at School of Computing, Korea Advanced Institute of Science and Technology (KAIST).
+- 🔭 My research interests: Computer vision, Robotics, Human-Computer Interaction
+- For more information, please visit [https://cv.wingdev.kr].
 
 <!--
 **RangeWING/RangeWING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
